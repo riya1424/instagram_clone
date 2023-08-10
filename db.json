@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "fullname": "Riya Patel",
+      "username": "riya_1424",
+      "email": "r@gmail.com",
+      "password": "123456",
+      "dp": "https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "id": 1
+    },
+    {
+      "fullname": "Charmi Patel",
+      "username": "charmi_22",
+      "email": "ch@gmail.com",
+      "password": "123456",
+      "dp": "https://images.unsplash.com/photo-1687965133994-ab38e74a89e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "id": 2
+    },
+    {
+      "fullname": "Vrutansh ",
+      "username": "_vrutansh_23",
+      "email": "v@gamil.com",
+      "password": "123456",
+      "dp": "https://images.unsplash.com/photo-1621591422693-48a15c302114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "id": 3
+    },
+    {
+      "fullname": "Akash ",
+      "username": "akash_30",
+      "email": "a@gmail.com",
+      "password": "123456",
+      "dp": "https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "id": 4
+    }
+  ],
+  "post": [
+    {
+      "userID": "1",
+      "userProfile":"https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "username": "riya_1424",
+      "image": "https://images.unsplash.com/photo-1688407508654-c6d7ef11bcbc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
+      "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "id": 1
+    },
+    {
+      "userID": "3",
+      "userProfile":"https://images.unsplash.com/photo-1621591422693-48a15c302114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "username": "_vrutansh_23",
+      "image": "https://images.unsplash.com/photo-1688320097436-a20f0b5ba1cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 2
+    },
+    {
+      "userID": "2",
+      "userProfile":"https://images.unsplash.com/photo-1687965133994-ab38e74a89e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "charmi_22",
+      "image": "https://images.unsplash.com/photo-1688408958906-48319544f983?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 3
+    },
+    {
+      "userID": "4",
+      "userProfile":"https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "akash_30",
+      "image": "https://images.unsplash.com/photo-1688388906808-184ea1d3366b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 4
+    },
+    {
+      "userID": "1",
+      "userProfile":"https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "username": "riya_1424",
+      "image": "https://images.unsplash.com/photo-1688149893355-591b530e1ad4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 5
+    },
+    {
+      "userID": "2",
+      "userProfile":"https://images.unsplash.com/photo-1687965133994-ab38e74a89e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "charmi_22",
+      "image": "https://images.unsplash.com/photo-1688406142218-d354836f1f3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1OHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 6
+    },
+    {
+      "userID": "3",
+      "userProfile":"https://images.unsplash.com/photo-1621591422693-48a15c302114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "username": "_vrutansh_23",
+      "image": "https://plus.unsplash.com/premium_photo-1684706282813-201f3afb35b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 7
+    },
+    {
+      "userID": "4",
+      "userProfile":"https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "akash_30",
+      "image": "https://images.unsplash.com/photo-1687441477919-dc6b4560b318?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8X2hiLWRsNFEtNFV8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 8
+    },
+    {
+      "userID": "1",
+      "userProfile":"https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "username": "riya_1424",
+      "image": "https://images.unsplash.com/photo-1686172249094-8d0e7eeb6bd1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI5fFM0TUtMQXNCQjc0fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 9
+    },
+    {
+      "userID": "3",
+      "userProfile":"https://images.unsplash.com/photo-1621591422693-48a15c302114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "username": "_vrutansh_23",
+      "profileImage": "",
+      "image": "https://images.unsplash.com/photo-1675426513824-25a43c3ae0ba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 10
+    },
+    {
+      "userID": "4",
+      "userProfile":"https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "akash_30",
+      "image": "https://images.unsplash.com/photo-1640582493002-bf33b2428dbf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fEpwZzZLaWRsLUhrfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 11
+    },
+    {
+      "userID": "3",
+      "userProfile":"https://images.unsplash.com/photo-1621591422693-48a15c302114?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=928&q=80",
+      "username": "_vrutansh_23",
+      "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 12
+    },
+    {
+      "userID": "2",
+      "userProfile":"https://images.unsplash.com/photo-1687965133994-ab38e74a89e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDJ8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "charmi_22",
+      "image": "https://images.unsplash.com/photo-1688408958776-00a5c1b17c8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 13
+    },
+    {
+      "userID": "1",
+      "userProfile":"https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "username": "riya_1424",
+      "image": "https://images.unsplash.com/photo-1682188299490-1e6e9c98bac8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDI2fEpwZzZLaWRsLUhrfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 14
+    },
+    {
+      "userID": "4",
+      "userProfile":"https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "akash_30",
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "caption": "Lorem Ipsum is simply dummy text of the printing a…dustry's standard dummy text ever since the 1500s",
+      "id": 15
+    },
+    {
+      "userID": "4",
+      "userProfile":"https://images.unsplash.com/photo-1687223739521-ac0f6e4fb28b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "username": "akash_30",
+      "image": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "id": 16
+    },
+    {
+      "userID": "1",
+      "userProfile":"https://wallpapers.com/images/hd/aesthetic-profile-picture-52t290ggbex44jma.jpg",
+      "username": "riya_1424",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-12-600x885.jpg",
+      "caption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "id": 17
+    }
+  ]
+}
